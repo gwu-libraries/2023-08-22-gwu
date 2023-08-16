@@ -269,6 +269,8 @@ REGISTRATION
 {% endcomment %}
 <h2 id="registration">Registration</h2>
 
+<h3>Registration for this event is now closed</h3>
+<!--
 <p>
 To register, please fill out and submit the registration form:
 </p>
@@ -278,6 +280,7 @@ To register, please fill out and submit the registration form:
     <button type="button" class="btn btn-info">Data Carpentry Metagenomics @ GWU Registration Form</button>
   </a>
 </p>
+-->
 <hr/>
 
 {% comment%}
